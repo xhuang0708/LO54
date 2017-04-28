@@ -10,16 +10,5 @@ package com.mycompany.lo54;
  * @author PanJin
  */
 public class test {
-    
-    /*test
-    
-    
-    
-    
-    
-    
-    *
-    */
-    
-    
+
 }
