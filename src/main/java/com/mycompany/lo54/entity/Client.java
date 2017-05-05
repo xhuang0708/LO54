@@ -12,8 +12,9 @@ import java.util.Date;
  *
  * @author PanJin
  */
+@Entity
 public class Client implements Serializable {
-    
+    @id
     private Integer id;
     private String lastname;
     private String firstname;
